@@ -1,11 +1,11 @@
 # MyBB_Theme_Cerise
 
-Cerise v1.2
+Cerise v1.3
 » About:
 
 This is a simple dark theme for MyBB enthusiasts styled similar to the ACP Style of the same name.
 
-Cerise v1.2
+Cerise v1.3
 » Installation:
 
 1.) After downloading the Theme unpack it (with 7-Zip for example)
@@ -14,16 +14,17 @@ Cerise v1.2
 4.) Search for the XML File titled "Cerise-theme.xml" in the theme folder found on your computer and click the Button "Import Theme" this will upload the file from your computer to your forum.
 5.) Now have fun with your forum!
 
-Cerise v1.2
+Cerise v1.3
 » License:
 
 You may not remove or change the MyBB copyright nor the Designed by: "Vintagedaddyo" statements in the footer of this theme's templates. You may use and modify this theme to your personal likings, but redistributing a modified version for download is prohibited, unless you have explicit written permission from "Vintagedaddyo", though you are allowed to redistribute a copy that has not been modified.
 
-Cerise v1.2
+Cerise v1.3
 » Changelog:
 
 History:
 
+02/08/2021 — Updated "Cerise-theme.xml" file to Cerise v1.3
 08/10/2020 — Updated "Cerise-theme.xml" file to 1.8.24
 07/24/2020 — Updated "Cerise-theme.xml" file to 1.8.23
 06/27/2019 — Updated "Cerise-theme.xml" file to 1.8.21
