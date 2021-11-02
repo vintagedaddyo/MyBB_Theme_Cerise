@@ -5,6 +5,8 @@ Cerise v1.3
 
 This is a simple dark theme for MyBB enthusiasts styled similar to the ACP Style of the same name.
 
+Theme uses Font-Awesome version: 4.7.0
+
 Cerise v1.3
 » Installation:
 
