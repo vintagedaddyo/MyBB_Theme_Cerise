@@ -24,6 +24,7 @@ Cerise v1.3
 
 History:
 
+11/1/2021 — Updated "Cerise-theme.xml" file to 1.8.29
 02/08/2021 — Updated "Cerise-theme.xml" file to Cerise v1.3
 08/10/2020 — Updated "Cerise-theme.xml" file to 1.8.24
 07/24/2020 — Updated "Cerise-theme.xml" file to 1.8.23
