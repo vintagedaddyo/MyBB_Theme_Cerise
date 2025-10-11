@@ -52,7 +52,6 @@ To Do:
 * maybe update Font Awesome 4 to newer Font Awesome version if or when I feel like it
 
 
-
 Due to the addition of css groupimage replacement, we need to after install modify for font awesome icon and add in groups in groupimage input for example for each usergroup its respective group name:
 
 Quote:
