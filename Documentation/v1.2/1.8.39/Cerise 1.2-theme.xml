@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <theme name="Cerise 1.2" version="1839">
 	<properties>
-		<templateset><![CDATA[34]]></templateset>
+		<templateset><![CDATA[22]]></templateset>
 		<editortheme><![CDATA[Cerise.css]]></editortheme>
 		<imgdir><![CDATA[themes/cerise]]></imgdir>
 		<logo><![CDATA[themes/cerise/logo.png]]></logo>
@@ -172,6 +172,7 @@ div.error {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
 		<stylesheet name="memberlist.css" version="1839"><![CDATA[/*
@@ -307,6 +308,7 @@ h4 {
 }
 }
 
+		
 		
 		
 		
@@ -610,6 +612,7 @@ div.team_usergroup_16 icon {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
 		<stylesheet name="grouptitle.css" version="1839"><![CDATA[/*
@@ -674,6 +677,7 @@ div.team_usergroup_16 icon {
    border: 1px solid #0072BF;
    color: #ffffff;
 }
+		
 		
 		
 		
@@ -766,6 +770,7 @@ div.team_usergroup_16 icon {
 /* define border gid 2 */
    border: 1px dashed #0072BF; 
 }
+		
 		
 		
 		
@@ -2892,6 +2897,7 @@ div.jqi .jqisubstate .jqibuttons button {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
 		<stylesheet name="usercp.css" attachedto="usercp.php|usercp2.php|private.php" version="1839"><![CDATA[/*
@@ -3124,6 +3130,7 @@ td[class^=trow]{
 	font-size:16px;
 }
 
+		
 		
 		
 		
@@ -3497,6 +3504,7 @@ td[class^=trow]{
 		
 		
 		
+		
 		]]>
 		</stylesheet>
 		<stylesheet name="star_ratings.css" attachedto="forumdisplay.php|showthread.php" version="1839"><![CDATA[/*
@@ -3617,6 +3625,7 @@ margin:0 auto;
 }
 
 
+		
 		
 		
 		
@@ -3765,6 +3774,7 @@ ul.thread_tools li.poll:after {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
 		<stylesheet name="modcp.css" attachedto="modcp.php" version="1839"><![CDATA[/*
@@ -3872,21 +3882,22 @@ ul.thread_tools li.poll:after {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
 	</stylesheets>
 	<templates>
-		<template name="codebuttons" version="1829"><![CDATA[<link rel="stylesheet" href="{$mybb->asset_url}/jscripts/sceditor/themes/{$theme['editortheme']}" type="text/css" media="all" />
-<script type="text/javascript" src="{$mybb->asset_url}/jscripts/sceditor/jquery.sceditor.bbcode.min.js?ver=1822"></script>
-<script type="text/javascript" src="{$mybb->asset_url}/jscripts/bbcodes_sceditor.js?ver=1827"></script>
-<script type="text/javascript" src="{$mybb->asset_url}/jscripts/sceditor/plugins/undo.js?ver=1821"></script>
+		<template name="codebuttons" version="1839"><![CDATA[<link rel="stylesheet" href="{$mybb->asset_url}/jscripts/sceditor/themes/{$theme['editortheme']}" type="text/css" media="all" />
+<script type="text/javascript" src="{$mybb->asset_url}/jscripts/sceditor/jquery.sceditor.bbcode.min.js?ver=1832"></script>
+<script type="text/javascript" src="{$mybb->asset_url}/jscripts/bbcodes_sceditor.js?ver=1837"></script>
+<script type="text/javascript" src="{$mybb->asset_url}/jscripts/sceditor/plugins/undo.js?ver=1832"></script>
 <script type="text/javascript">
 var partialmode = {$mybb->settings['partialmode']},
 opt_editor = {
 	plugins: "undo",
 	format: "bbcode",
 	bbcodeTrim: false,
-	style: "{$mybb->asset_url}/jscripts/sceditor/styles/jquery.sceditor.{$theme['editortheme']}?ver=1823",
+	style: "{$mybb->asset_url}/jscripts/sceditor/styles/jquery.sceditor.{$theme['editortheme']}?ver=1832",
 	rtl: {$lang->settings['rtl']},
 	locale: "mybblang",
 	width: "100%",
